@@ -1,1 +1,14 @@
+Projekt - Przykładowy dashboard w PowerBI zasilany z Microsoft SQL Server Managment Studio o wizytach w sieci hotelów.
 
+Celem przygotowanego dashboardu była odpowiedź na problemy:
+1. Czy przychody hotelów wzrastają z roku na rok? 
+2. Czy goście częściej korzystają z parkingów samochodowych
+3. Jakie ogólne trendy możmożna zawuważyć?
+
+Źródło danych: N. Antonio, A. de Almeida, L. Nuines, Hotel booking demand datasets, "Data In Biref", 2019, 41-49.
+
+Dane pobrane w pliku .xlsx zaimportowane zostały do bazy danych w programie SQL Server Managment Studio, a następnie do programu PowerBI.
+Na ich podstawie został utworzony dashboard umożliwiający odpowiedzenie na postawione problemy oraz pozwalający wykonywać dalse analizy.
+
+W repozytorium znajduje się plik z interaktywnym dashboardem z PowerBI, plik PDf z widokiem dashboardu oraz zrzuty ekranu z częścią danych w Excelu i SQLSMS 
+oraz podglądem na dashboard.
