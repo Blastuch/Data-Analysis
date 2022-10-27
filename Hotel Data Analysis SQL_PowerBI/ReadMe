@@ -12,3 +12,20 @@ Na ich podstawie został utworzony dashboard umożliwiający odpowiedzenie na po
 
 W repozytorium znajduje się plik z interaktywnym dashboardem z PowerBI, plik PDf z widokiem dashboardu oraz zrzuty ekranu z częścią danych w Excelu i SQLSMS 
 oraz podglądem na dashboard.
+
+// ENG
+
+Project - A sample dashboard in PowerBI powered by Microsoft SQL Server Management Studio about visits to a hotel chain.
+
+The purpose of the dashboard was to answer the questions:
+1. is hotel revenue increasing year on year? 
+2. are guests using car parking more often?
+3. what general trends can be observed?
+
+Data source: N. Antonio, A. de Almeida, L. Nuines, Hotel booking demand datasets, "Data In Biref," 2019, 41-49.
+
+The data was downloaded in an .xlsx file was later imported into a database in SQL Server Managment Studio and then into PowerBI.
+To answer the problems and to perform further analysis PowerBI  dashboard was created.
+
+The repository contains a file with an interactive dashboard from PowerBI, a PDf file with overview of the dashboard, as well as screenshots with some of the data
+in Excel and SQLSMS and a preview of the dashboard.
